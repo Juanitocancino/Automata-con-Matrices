@@ -1,0 +1,12 @@
+asa
+643
+int /*main ()
+{
+*/
+//alsjdnajsda;
+123124123;
+99999.9999;
+probando Como estamos
+cout << ajsnakjsda << endl
+}
+asda
