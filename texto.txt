@@ -2,7 +2,9 @@ asa
 643
 int /*main ()
 {
-*/
+*aksdnakjsda/
+jasd
+
 //alsjdnajsda;
 123124123;
 99999.9999;
